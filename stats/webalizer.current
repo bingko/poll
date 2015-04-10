@@ -1,0 +1,711 @@
+# Webalizer V2.01-10 Incremental Data - 02/08/2015 23:57:40
+2015 2 8 23 57 40
+14516 10250 72 70 43 46 960783510 9998 105 0
+21 1354 3518 1 8
+48 40 1352088 11 18 8
+60 58 53483454 9 20 9
+56 46 4747454 9 20 8
+280 260 69273726 16 46 11
+188 180 19661868 10 16 8
+144 136 11998274 13 24 12
+134 124 44263682 7 10 5
+13606 9406 756002964 21 9844 44
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+16 10 62818 10
+4 4 295260 4
+4 4 11166 2
+62 60 5774456 8
+94 78 6701714 16
+4 4 152778 4
+36 36 4389400 2
+6 6 224498 2
+62 60 5809848 6
+6 4 31356 4
+34 32 1188026 8
+44 42 4684884 8
+74 66 38289552 10
+158 150 10636982 26
+8 6 144690 2
+8 8 136062 4
+12 8 34502 6
+74 68 6291246 36
+1326 1156 78254030 1018
+1674 1254 87620866 1366
+2714 1684 177123248 1778
+3564 2080 172569488 2258
+3108 2162 239684078 2204
+1424 1268 120672562 1216
+0
+0
+0
+10250
+0
+0
+0
+0
+0
+8
+0
+0
+1194
+0
+2548
+0
+0
+0
+0
+0
+0
+514
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/resp_menu.png
+1 36 775500800 850986 0 0
+/js/all.min.js
+0 152 779380078 53043360 0 0
+/images/icon_set/report.png
+1 6 1650619503 23142 0 0
+/
+0 8782 1852405621 795148596 102 44
+/css/animetextstyle.css
+0 156 0 204776 0 0
+/images/icon_menu/icon_9.png
+1 6 28778 1200 0 0
+/css/hover_style_common.css
+0 144 0 71650 0 0
+/images/icon_set/delete_icon.png
+1 6 0 24648 0 0
+/images/delete_icon.png
+1 2 0 8216 0 0
+/images/icon_menu/icon_8.png
+1 6 0 900 0 0
+/css/popup.css
+0 150 0 92064 0 0
+/images/icon_set/chart.png
+1 6 0 23532 0 0
+/css/default.min.css
+0 156 0 1641328 0 0
+/images/bg_survey.png
+1 2 0 125732 0 0
+/js/jquery.textillate.js
+0 142 0 345360 0 0
+/js/jquery.fittext.js
+0 142 0 53280 0 0
+/images/icon_menu/icon_7.png
+1 6 0 2562 0 0
+/poll.tar.gz
+0 2 0 32525812 0 0
+/images/icon_menu/member.png
+1 112 0 59886 0 0
+/images/icon_set/symbol_check_no.png
+1 6 0 4536 0 0
+/images/icon_menu/icon_6.png
+1 6 0 2562 0 0
+/js/console.js
+0 142 0 214464 0 0
+/css/loading.gif
+1 14 0 131978 0 0
+/css/mystyle.css
+0 130 0 10404 0 0
+/images/header/logo.png
+1 28 0 522594 0 0
+/images/icon_menu/icon_10.png
+1 6 0 2652 0 0
+/images/icon_menu/icon_5.png
+1 6 0 2682 0 0
+/images/icon_set/doc_edit.png
+1 6 0 23676 0 0
+/images/icon_menu/icon_4.png
+1 6 0 3900 0 0
+/images/bg-tail.jpg
+1 136 0 12854694 0 0
+/images/icon_menu/icon_3.png
+1 6 0 1200 0 0
+/images/icon_set/lock.png
+1 6 0 20724 0 0
+/css/animate.css
+0 144 0 3220550 0 0
+/images/Icon/process.png
+1 6 0 241464 0 0
+/css/common.min.css
+0 158 0 6206814 0 0
+/images/icon_menu/icon_2.png
+1 6 0 2208 0 0
+/images/icon_set/symbol_check.png
+1 6 0 20844 0 0
+/images/icon_menu/icon_1.png
+1 6 0 2436 0 0
+/images/exitpoll.png
+1 34 0 654016 0 0
+/js/popup.js
+0 142 0 85632 0 0
+/css/mobile.all.min.css
+0 6 0 1419798 0 0
+/images/icon_set/print.png
+1 6 0 24894 0 0
+/css/hover_style.css
+0 144 0 158100 0 0
+/js/jquery.lettering.js
+0 142 0 85440 0 0
+/css/closebox.png
+1 2 0 3268 0 0
+/css/kendo.dataviz.min.css
+0 150 0 312648 0 0
+/images/icon_menu/export.png
+1 6 0 5664 0 0
+/images/icon_menu/home.png
+1 112 0 19062 0 0
+/css/thaisanslite.woff
+0 132 0 671504 0 0
+/images/step.png
+1 2 0 1442 0 0
+/images/esanpoll_logo.png
+1 2 0 125596 0 0
+/images/header/bg_kku.png
+1 134 0 2910230 0 0
+/images/step3.png
+1 2 0 6252 0 0
+/css/kendo.dataviz.silver.min.css
+0 144 0 90450 0 0
+/images/icon_menu/survey.png
+1 6 0 6984 0 0
+/css/thaisanslite.eot
+0 18 0 0 0 0
+/images/contactus.png
+1 34 0 2948480 0 0
+/images/step2.png
+1 2 0 6210 0 0
+/images/icon_menu/user.png
+1 6 0 4968 0 0
+/css/Default/sprite.png
+1 24 1919090688 486980 0 0
+/images/world-map.png
+1 134 758198833 362520 0 0
+/js/web.min.js
+0 142 758199808 35355264 0 0
+/images/step1.png
+1 2 841838704 6284 0 0
+/css/thaisanslite.ttf
+0 8 926035312 494592 0 0
+/images/icon_set/group.png
+1 4 0 15392 0 0
+/images/update_icon.png
+1 2 825060460 8110 0 0
+/images/header/header.png
+1 128 808529208 654670 0 0
+/images/icon_set/excel.png
+1 6 0 22860 0 0
+/js/jquery.min.js
+0 158 0 5002182 0 0
+/images/header/logo_nontext.png
+1 134 0 1095800 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-69-220.googlebot.com
+0 2 0 0 0 0
+-
+110.78.148.155
+0 564 500 44560622 1 1423439429
+/
+187-41-107-204.user.veloxzone.com.br
+0 58 56 5747420 1 1423351242
+/
+ns7000255.ip-192-99-40.net
+0 2 2 0 1 1423152364
+/
+node-1c9f.pool-101-51.dynamic.totbb.net
+0 1114 982 72221668 1 1423429019
+/
+162.243.122.144
+0 2 2 0 1 1423183959
+/
+crawl-66-249-65-137.googlebot.com
+0 6 2 0 1 1423164615
+/
+static.42.50.9.176.clients.your-server.de
+0 4 4 0 2 1423420272
+/
+crawl-66-249-65-141.googlebot.com
+0 2 2 0 1 1423047185
+/
+191.250.155.141.dynamic.adsl.gvt.net.br
+0 58 56 5747420 1 1423123407
+/
+crawl-66-249-64-120.googlebot.com
+0 2 0 0 0 0
+-
+183.pichincha.andinanet.net
+0 36 36 4389400 1 1422962267
+/
+crawl-66-249-73-136.googlebot.com
+0 20 16 936222 1 1423040474
+/
+72.46.136.178
+0 4 4 62428 2 1422935104
+/
+185.10.104.194
+0 2 2 11166 0 0
+-
+crawl-66-249-73-162.googlebot.com
+0 4 2 31740 1 1423081466
+/
+173.252.112.114
+0 4 4 108124 0 0
+-
+49.230.117.93
+0 1238 1082 83545376 1 1423434561
+/
+91.216.46.192
+0 2 2 31214 1 1423185175
+/
+crawl-66-249-65-167.googlebot.com
+0 10 8 48675366 3 1422917908
+/
+crawl-66-249-65-171.googlebot.com
+0 4 2 3288 0 0
+-
+crawl-66-249-73-144.googlebot.com
+0 18 12 22330 3 1423166797
+/
+222.231.33.68
+0 12 0 0 1 1423370639
+-
+175.139.23.64
+0 36 36 4389400 1 1423418208
+/
+bfb77969.virtua.com.br
+0 36 36 4389772 1 1422912534
+/
+msnbot-207-46-13-12.search.msn.com
+0 2 2 264046 1 1423359921
+/
+broadband-77-37-231-208.nationalcablenetworks.ru
+0 6 6 93642 3 1423264895
+/
+crawl-66-249-79-8.googlebot.com
+0 4 2 31356 1 1423335226
+/
+google-proxy-66-249-84-142.google.com
+0 4 2 31834 1 1423053686
+/
+crawl-66-249-64-128.googlebot.com
+0 2 2 0 1 1422809328
+/
+208.115.113.91
+0 4 2 0 1 1423236589
+/
+google-proxy-66-249-84-148.google.com
+0 2 2 31834 1 1423426106
+/
+c94aba0d.virtua.com.br
+0 58 56 5747420 1 1423195774
+/
+179-236-191-120.user.veloxzone.com.br
+0 36 36 4389400 1 1423164667
+/
+crawl-66-249-65-175.googlebot.com
+0 4 4 290228 2 1422920936
+/
+191-112-236-245.baf.movistar.cl
+0 52 52 5623194 1 1423193653
+/
+mx-ll-180.183.238-227.dynamic.3bb.co.th
+0 1748 1536 144324900 21 1423439622
+/
+50-192-203-170-static.hfc.comcastbusiness.net
+0 2 0 0 1 1422966991
+-
+187-14-139-7.user.veloxzone.com.br
+0 54 54 8520498 1 1423177047
+/
+crawl-66-249-73-152.googlebot.com
+0 8 8 97686 3 1423207260
+/
+49.229.181.223
+0 56 52 54063946 1 1423082153
+/
+186-242-224-205.user.veloxzone.com.br
+0 36 36 4389400 1 1423032799
+/
+ec2-54-167-136-187.compute-1.amazonaws.com
+0 2 2 31214 1 1422828209
+/
+crawl-192-99-107-82.meanpathbot.com
+0 4 2 0 1 1423227578
+/
+msnbot-157-55-39-182.search.msn.com
+0 2 2 40590 1 1423391705
+/
+ip13.50-31-96.static.steadfastdns.net
+0 6 4 31462 1 1422752173
+/
+66.220.156.112
+0 2 2 54790 0 0
+-
+66.220.156.117
+0 2 2 54790 0 0
+-
+66.220.156.119
+0 2 2 54790 0 0
+-
+110.78.151.184
+0 3516 656 50949484 1 1423434287
+/
+crawl-192-99-107-136.meanpathbot.com
+0 4 2 0 1 1423266114
+/
+ptr.cnsat.com.cn
+0 24 24 1282006 8 1423384492
+/
+110.77.247.174
+0 62 58 38202928 1 1423313620
+/
+crawl-66-249-73-178.googlebot.com
+0 4 4 11166 1 1423047485
+/
+google-proxy-66-249-82-196.google.com
+0 2 2 0 1 1423053687
+/
+mx-ll-223.206.249-249.dynamic.3bb.co.th
+0 840 752 56683460 1 1423439860
+/
+mx-ll-223.206.248-144.dynamic.3bb.co.th
+0 1606 1298 99705552 5 1423435415
+/
+202.28.118.124
+0 2816 2460 195211872 2 1423437161
+/
+customer6.orypt.info
+0 2 2 31214 1 1422854294
+/
+crawl-66-249-64-188.googlebot.com
+0 6 6 539260 0 0
+-
+msnbot-207-46-13-94.search.msn.com
+0 4 2 85546 1 1423279369
+/
+69.171.230.117
+0 2 2 54790 0 0
+-
+crawl-66-249-64-192.googlebot.com
+0 6 6 244336 0 0
+-
+2.236.51.21
+0 2 2 0 1 1422909719
+/
+www.whois.sc
+0 4 2 31834 1 1423061947
+/
+dedic562.hidehost.net
+0 6 0 0 1 1423002650
+-
+mx-ll-223.206.249-228.dynamic.3bb.co.th
+0 250 244 14500298 2 1423436015
+/
+google-proxy-66-249-82-205.google.com
+0 2 2 0 1 1423426106
+/
+crawl-66-249-69-188.googlebot.com
+0 2 2 0 1 1423396297
+/
+srv0.tk
+0 2 2 31214 1 1423137216
+/
+crawl-66-249-65-133.googlebot.com
+0 2 2 0 1 1423011515
+/
+crawl-66-249-64-3.googlebot.com
+0 14 12 178574 1 1422785556
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-69-220.googlebot.com
+0 2 0 0 0 0
+-
+110.78.148.155
+0 564 500 44560622 1 1423439429
+/
+node-1c9f.pool-101-51.dynamic.totbb.net
+0 1114 982 72221668 1 1423429019
+/
+static.42.50.9.176.clients.your-server.de
+0 2 2 0 1 1423420272
+/
+173.252.112.114
+0 2 2 58066 0 0
+-
+49.230.117.93
+0 1238 1082 83545376 1 1423434561
+/
+222.231.33.68
+0 12 0 0 1 1423370639
+-
+175.139.23.64
+0 36 36 4389400 1 1423418208
+/
+msnbot-207-46-13-12.search.msn.com
+0 2 2 264046 1 1423359921
+/
+google-proxy-66-249-84-142.google.com
+0 2 0 0 0 0
+-
+google-proxy-66-249-84-148.google.com
+0 2 2 31834 1 1423426106
+/
+mx-ll-180.183.238-227.dynamic.3bb.co.th
+0 1748 1536 144324900 21 1423439622
+/
+msnbot-157-55-39-182.search.msn.com
+0 2 2 40590 1 1423391705
+/
+110.78.151.184
+0 3516 656 50949484 1 1423434287
+/
+ptr.cnsat.com.cn
+0 4 4 152778 2 1423384492
+/
+mx-ll-223.206.249-249.dynamic.3bb.co.th
+0 840 752 56683460 1 1423439860
+/
+mx-ll-223.206.248-144.dynamic.3bb.co.th
+0 1606 1298 99705552 5 1423435415
+/
+202.28.118.124
+0 2660 2310 184574890 1 1423437161
+/
+mx-ll-223.206.249-228.dynamic.3bb.co.th
+0 250 244 14500298 2 1423436015
+/
+google-proxy-66-249-82-205.google.com
+0 2 2 0 1 1423426106
+/
+crawl-66-249-69-188.googlebot.com
+0 2 2 0 1 1423396297
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 1098
+http://www.xn--q3ckvro5at1i.com/index.php/survey/value_survey/66/20150208181141228570
+1 2
+http://www.xn--q3ckvro5at1i.com/index.php/survey/value_survey/66/20150208222619086152
+1 20
+http://www.xn--q3ckvro5at1i.com/index.php/ci_manage_survey/ans_value/66/20150208184837396049
+1 2
+http://www.xn--q3ckvro5at1i.com/index.php/survey/list_detail/66
+1 22
+http://xn--q3ckvro5at1i.com/
+0 34
+http://www.google.com/search
+0 4
+http://www.domaintuno.com/d/e-saanpoll.com
+0 2
+http://www.xn--q3ckvro5at1i.com/css/animetextstyle.css
+1 36
+http://www.e-saanpoll.com
+1 2
+http://www.xn--q3ckvro5at1i.com/index.php/ci_login/logout
+1 28
+http://www.xn--q3ckvro5at1i.com/index.php/ci_login/login
+1 40
+http://www.google.co.th/url
+0 2
+http://e-saanpoll.com/css/hover_style_common.css
+0 2
+http://www.xn--q3ckvro5at1i.com/index.php/survey/form_survey
+1 6056
+http://www.xn--q3ckvro5at1i.com/css/default.min.css
+1 18
+http://www.google.co.th/search
+0 2
+http://www.xn--q3ckvro5at1i.com/index.php/home/index
+1 172
+http://www.xn--q3ckvro5at1i.com/index.php/report/show_graph
+1 50
+http://www.xn--q3ckvro5at1i.com/index.php/ci_manage_survey/mulitiple_only
+1 2
+http://www.xn--q3ckvro5at1i.com/index.php/ci_manage_survey/ans_value/66/20150208222619086152
+1 2
+http://www.xn--q3ckvro5at1i.com/index.php/report/show_graph/25
+1 10
+http://www.xn--q3ckvro5at1i.com/index.php/survey/value_survey/66/20150208184837396049
+1 20
+http://www.xn--q3ckvro5at1i.com/index.php/report/show_graph/46
+1 54
+http://www.xn--q3ckvro5at1i.com/index.php/ci_manage_survey/select_survey_db/66
+1 832
+http://www.xn--q3ckvro5at1i.com/index.php/report/show_graph/66
+1 3494
+http://www.xn--q3ckvro5at1i.com/
+1 632
+http://www.xn--q3ckvro5at1i.com/css/popup.css
+1 14
+http://www.xn--q3ckvro5at1i.com/index.php/home/list_survey
+1 1042
+http://www.\xe0\xb8\xad\xe0\xb8\xb5\xe0\xb8\xaa\xe0\xb8\xb2\xe0\xb8\x99\xe0\xb9\x82\xe0\xb8\x9e\xe0\xb8\xa5.com/index.php/surve
+0 44
+https://www.google.co.th/
+0 8
+http://buttons-for-website.com
+0 8
+http://www.xn--q3ckvro5at1i.com/index.php/survey/insert_survey
+1 42
+http://paydayloans.ddns.net/
+0 2
+http://e-saanpoll.com/css/animetextstyle.css
+0 2
+http://www.xn--q3ckvro5at1i.com/css/hover_style_common.css
+1 30
+http://whois.domaintools.com/xn--q3ckvro5at1i.com
+0 2
+http://www.xn--q3ckvro5at1i.com/index.php/report/rawdata_table/64
+1 2
+http://www.e-saanpoll.com/robots.txt
+1 2
+http://semalt.semalt.com/crawler.php
+0 12
+http://e-saanpoll.com/
+0 458
+http://www.xn--q3ckvro5at1i.com/index.php/home
+1 208
+http://l.facebook.com/lsr.php
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.127 Safari/534.16
+0 3516
+Mozilla/5.0 (Linux; U; Android 2.3.6; th-th; GT-I9070 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mo
+0 56
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36
+0 156
+Java/1.7.0_09
+0 2
+Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 9.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+0 2720
+Mozilla/5.0 (Windows NT 5.1; rv:29.0) Gecko/20100101 Firefox/29.0
+0 108
+Mozilla/5.0 (Windows NT 5.1; rv:27.0) Gecko/20100101 Firefox/27.0
+0 2390
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 104
+Mozilla/4.0 (compatible; Win32; WinHttp.WinHttpRequest.5)
+0 12
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.1.2) Firefox/3.5.2
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 12
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+0 1646
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 4
+Mozilla/2.0 (compatible; crw)
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+0 62
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+0 1238
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+0 564
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322; PeoplePal 6.2)
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 52
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 8
+Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.10 Chromium/10.0.648.0 Chrome/10.0.6
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+0 2
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 8
+Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+0 162
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 2
+Mozilla/5.0 (compatible; DomainTunoCrawler/0.1; +http://www.domaintuno.com/robot)
+0 2
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/27.0.1453 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+0 16
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/24.0.1309.0 Safari/537.17
+0 6
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 408
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36
+0 1192
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+<style tyle="text/css">
+<!--
+@media screen
+{
+p.bodyText {font-family:verdana, arial, sans-serif;}
+}
+
+@media print
+{
+p.bodyText {font-family:georgia, times, serif;}
+}
+@media screen, print
+{
+p.bodyText {font-size:200pt}
+}
+-->
+</style>
